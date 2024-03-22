@@ -23,5 +23,7 @@ Calculating rolling vaccination counts and percentages to assess the progress of
                                           
 ## Key Skills Demonstrated:
 **SQL Querying:** Proficiency in writing complex SQL queries to retrieve, manipulate, and analyze data from relational databases.
+
 **Data Manipulation:** Employing advanced SQL techniques such as joins, window functions, and aggregate functions to perform calculations and derive insights.
+
 **Data Visualization Preparation:** Creating views to encapsulate specific datasets for visualization and further analysis.
