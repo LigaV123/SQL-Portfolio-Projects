@@ -1,5 +1,5 @@
 ## Description
-The "Data Cleaning with SQL Queries" project exemplifies the application of SQL queries in preprocessing 
+The "Nashvill Housing Data Cleaning" project exemplifies the application of SQL queries in preprocessing 
 and refining real estate data extracted from the NashvilleHousing database. 
 The original data is located in excel file and inported to SQL Server Management Studio.
 This project is designed to showcase proficiency in data cleaning techniques using SQL, 
