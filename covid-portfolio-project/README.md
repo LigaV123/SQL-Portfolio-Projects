@@ -7,19 +7,19 @@ Using SQL skills including joins, common table expressions (CTEs), temporary tab
 window functions, aggregate functions, creating views, and data type conversions, this project looks into pandemic's impact.
 
 ## Objectives:
-1. Data Retrieval and Exploration:
+**1. Data Retrieval and Exploration:**
 Utilizing SQL queries to extract and explore COVID-19 data from multiple tables.
 Investigating parameters such as location, date, total cases, new cases, total deaths, new deaths, and population to understand the dynamics of the pandemic.
 
-2. Analysis of Case and Death Statistics:
+**2. Analysis of Case and Death Statistics:**
 Calculating metrics such as death percentage, infection rates compared to population, and identifying countries with the highest infection and death counts.
 Examining specific countries (e.g., Latvia) to assess the likelihood of mortality and the percentage of the population affected by the virus.
 
-3. Regional and Global Insights:
+**3. Regional and Global Insights:**
 Segmenting data by continents and regions to discern trends and variations in death counts.
 Aggregating global statistics to provide insights into the overall impact of COVID-19 on a global scale.
 
-4. Vaccination Analysis:
+**4. Vaccination Analysis:**
 Integrating vaccination data to analyze the percentage of the population vaccinated over time.
 Calculating rolling vaccination counts and percentages to assess the progress of vaccination efforts across different locations.
                                           
