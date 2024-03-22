@@ -1,8 +1,10 @@
 ## Description
 The "COVID-19 Data Exploration" project is a comprehensive SQL-based analysis aimed at examining various aspects of the 
 [COVID-19 pandemic using real-world data](https://ourworldindata.org/covid-deaths#explore-the-global-data-on-confirmed-covid-19-deaths).
-Leveraging SQL skills including joins, common table expressions (CTEs), temporary tables, 
-window functions, aggregate functions, creating views, and data type conversions.
+owid-covid-data.xlsx excel file is the original data file which got split into two separate files covid-death-data and covid-vaccination-data.
+Data from these excel files are imorted in SQL Server Management Studio and used for this project.
+Using SQL skills including joins, common table expressions (CTEs), temporary tables, 
+window functions, aggregate functions, creating views, and data type conversions, this project looks into pandemic's impact.
 
 ## Objectives:
 1. Data Retrieval and Exploration:
